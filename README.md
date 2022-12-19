@@ -1,5 +1,2 @@
-_G.Key = "kaks"
-
-_G.AuthServer = "true"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua%22))()
+_G.Key = "(kaks)"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua%22))()
